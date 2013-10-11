@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cristina Metgher]]></title>
+  <link href="http://www.metgher.com/atom.xml" rel="self"/>
+  <link href="http://www.metgher.com/"/>
+  <updated>2013-10-10T22:59:52-04:00</updated>
+  <id>http://www.metgher.com/</id>
+  <author>
+    <name><![CDATA[Cristina Metgher]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Creating a Github Blog Using Octopress]]></title>
+    <link href="http://www.metgher.com/blog/2013/10/10/creating-a-github-blog-using-octopress/"/>
+    <updated>2013-10-10T20:40:00-04:00</updated>
+    <id>http://www.metgher.com/blog/2013/10/10/creating-a-github-blog-using-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Posts]]></title>
+    <link href="http://www.metgher.com/blog/2013/10/10/posts/"/>
+    <updated>2013-10-10T17:15:00-04:00</updated>
+    <id>http://www.metgher.com/blog/2013/10/10/posts</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[From Sugarscape to Cancerscape]]></title>
+    <link href="http://www.metgher.com/blog/2013/10/10/from-sugarscape-to-cancerscape/"/>
+    <updated>2013-10-10T11:29:00-04:00</updated>
+    <id>http://www.metgher.com/blog/2013/10/10/from-sugarscape-to-cancerscape</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://www.metgher.com/blog/2013/10/07/first-post/"/>
+    <updated>2013-10-07T14:48:00-04:00</updated>
+    <id>http://www.metgher.com/blog/2013/10/07/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
