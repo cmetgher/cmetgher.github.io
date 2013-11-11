@@ -11,7 +11,7 @@
     <title>about: metgher.com - Cristina Metgher</title>
     <meta name="author" content="Cristina Metgher">
     
-    <meta name="description" content="About me: My name is Cristina Meţgher and I am a 4-th year PhD Student in Computational Social Science at the Krasnow Institute for Advanced Study, &hellip;">
+    <meta name="description" content="About: metgher.com About me: My name is Cristina Meţgher and I am a 4-th year PhD Student in Computational Social Science at the Krasnow Institute &hellip;">
     
     <meta name="viewport" content="width=device-width">
     
@@ -58,12 +58,17 @@
     <div class="grid-wrapper">
       <div class="grid grid-center">
         
-        <div class="grid__item one-whole">
+        <div class="grid__item two-thirds lap-one-whole palm-one-whole">
         
 
           
+<h1 class="title indent">
+  About: metgher.com
+</h1>
+<hr class="divider">
 
-<div class="grid-wrapper">
+
+<div class="wrapper_single">
 About me: 
 <p>
 My name is Cristina Meţgher and I am a 4-th year PhD Student in <a href="http://www.css.gmu.edu/"> Computational Social Science</a> at the Krasnow Institute for Advanced Study, <a href="http://www.gmu.edu/">GMU</a>. In my dissertation I use Agent Based Modeling and Social Network Analysis to better understand the social determinants of cancer. I have a MSc degree in Computer Science from <a href="http://www.utm.md">Technical University of Moldova</a>. 
@@ -75,6 +80,74 @@ My name is Cristina Meţgher and I am a 4-th year PhD Student in <a href="http:/
         
         </div>
         
+        
+        <aside id="sidebar" class="grid__item one-third lap-one-whole palm-one-whole">
+          <div class="grid">
+
+  <section id="recent-posts" class="aside-module grid__item one-whole lap-one-half">
+  <h1 class="title delta">Recent Posts</h1>
+  <ul class="divided">
+    
+      <li class="post">
+        <a href="/blog/2013/10/10/creating-a-github-blog-using-octopress/">Creating a Github Blog Using Octopress</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/10/10/posts/">Posts</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/10/10/from-sugarscape-to-cancerscape/">From Sugarscape to Cancerscape</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/10/07/first-post/">first post</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+<section class="social aside-module grid__item one-whole lap-one-half">
+  <h1 class="title delta">
+    Connect with me on:
+  </h1>
+  <ul class="unstyled">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
+</section>
+
+<section class="social aside-module grid__item one-whole lap-one-half">
+  <ul class="unstyled">
+
+    <li><a class="github" href="//github.com/cmetgher"><i class="icon-github"></i> Github</a></li>
+    
+    <li><a class="twitter" href="//twitter.com/cmetgher"><i class="icon-twitter"></i> Twitter</a></li>
+
+    <li><a class="linkedin" href="//linkedin.com/in/cmetgher"><i class="icon-linkedin-sign"></i> LinkedIn</a></li>
+
+    <li><a class="gplus" href="//plus.google.com/103930500135973595620"><i class="icon-google-plus-sign"></i> G+</a></li>
+
+
+  </ul>
+</section>
+
+</div>
+
+        </aside>
         
       </div>
     </div>
@@ -107,6 +180,31 @@ My name is Cristina Meţgher and I am a 4-th year PhD Student in <a href="http:/
   g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
   s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
+
+
+
+
+
+
+<script>
+  $(document).ready(function(){
+    if (!window.jXHR){
+      var jxhr = document.createElement('script');
+      jxhr.type = 'text/javascript';
+      jxhr.src = '/javascripts/libs/jXHR.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jxhr, s);
+    }
+
+    github.showRepos({
+      user: 'cmetgher',
+      count: 0,
+      skip_forks: true,
+      target: '#gh_repos'
+    });
+  });
+</script>
+<script src="/javascripts/github.js"></script>
 
 
 
