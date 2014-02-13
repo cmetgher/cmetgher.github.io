@@ -2,47 +2,39 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.metgher.com/blog/2013/10/07/first-post/</loc>
-        <lastmod>2013-11-11T12:28:59-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.metgher.com/blog/2013/10/10/from-sugarscape-to-cancerscape/</loc>
-        <lastmod>2013-11-11T12:28:59-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.metgher.com/blog/2013/10/10/posts/</loc>
-        <lastmod>2013-11-11T12:28:59-05:00</lastmod>
+        <lastmod>2014-02-13T13:58:35-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/blog/2013/10/10/creating-a-github-blog-using-octopress/</loc>
-        <lastmod>2013-11-11T12:28:59-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/about/</loc>
-        <lastmod>2014-02-09T20:32:29-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/blog/archives/</loc>
-        <lastmod>2013-11-14T18:26:42-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/blog/</loc>
-        <lastmod>2013-11-11T12:28:59-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/contact/</loc>
-        <lastmod>2014-02-09T16:06:03-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/cv/</loc>
-        <lastmod>2014-02-13T13:49:26-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/</loc>
-        <lastmod>2014-02-09T16:04:45-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/research/</loc>
-        <lastmod>2014-02-12T16:18:36-05:00</lastmod>
+        <lastmod>2014-02-13T14:50:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.metgher.com/robots.txt</loc>
