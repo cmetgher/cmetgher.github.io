@@ -4,7 +4,7 @@
   <title><![CDATA[Cristina Metgher]]></title>
   <link href="http://www.metgher.com/atom.xml" rel="self"/>
   <link href="http://www.metgher.com/"/>
-  <updated>2014-02-13T15:12:41-05:00</updated>
+  <updated>2014-02-13T21:34:16-05:00</updated>
   <id>http://www.metgher.com/</id>
   <author>
     <name><![CDATA[Cristina Metgher]]></name>
@@ -14,13 +14,32 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Levels of analysis in agent based modeling]]></title>
+    <link href="http://www.metgher.com/blog/2014/02/13/level-of-analysis-in-agent-based-modeling/"/>
+    <updated>2014-02-13T17:56:00-05:00</updated>
+    <id>http://www.metgher.com/blog/2014/02/13/level-of-analysis-in-agent-based-modeling</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"> <img src="http://www.metgher.com/images/fromaxtel.png" title="octopress logo" alt="alt text" /></p>
+
+<p>When talking about agent based modeling and refering to models as &ldquo;Level 0&rdquo; or &ldquo;Level 1&rdquo; I am often asked to explain these what these levels entail. When refering to these level most modelers have <a href="http://www.project2061.org/publications/designs/online/pdfs/reprints/2_axteps.pdf">this</a> paper by Robert L. Axtell and Joshua L. Epstein in mind. They introduced four progressive levels in the sense that satisfactory performance of a model at level N implies that it is also satisfactory at level N-i:</p>
+
+<p>Level 0:    The model is a caricature of reality, as established through the use of simple graphical devices (e.g., allowing visualization of agent motion);</p>
+
+<p>Level 1:    The model is in qualitative agreement with empirical macro- structures, as established by plotting, say, distributional properties of the agent population;</p>
+
+<p>Level 2:    The model produces quantitative agreement with empirical macrostructures, as established through on-board statistical estimation routines; and finally,</p>
+
+<p>Level 3:    The model exhibits quantitative agreement with empirical microstructures, as determined from cross-sectional and longitudinal analysis of the agent population.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Creating a Github Blog Using Octopress]]></title>
     <link href="http://www.metgher.com/blog/2013/10/10/creating-a-github-blog-using-octopress/"/>
     <updated>2013-10-10T20:40:00-04:00</updated>
     <id>http://www.metgher.com/blog/2013/10/10/creating-a-github-blog-using-octopress</id>
     <content type="html"><![CDATA[<p style="text-align:center;"> <img src="http://www.metgher.com/images/octopress.png" title="octopress logo" alt="alt text" /></p>
 
-<p>With <a href="http://octopress.org/">Octopress</a>, I write my blog posts in <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Octopress uses uses <a href="https://github.com/jekyll/jekyll">Jekyll</a> that runs with <a href="http://pages.github.com/">Github pages</a>.</p>
+<p>With <a href="http://octopress.org/">Octopress</a>, I write my blog posts in <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Octopress uses <a href="https://github.com/jekyll/jekyll">Jekyll</a> that runs with <a href="http://pages.github.com/">Github pages</a>.</p>
 
 <p>Markdown offers a clean and simple syntax for text formating, translates fast and easily to HTML. It&rsquo;s flexibility allows for outputing files into a wide array of formats, that are implicitly cross-platform.</p>
 

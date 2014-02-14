@@ -13,11 +13,11 @@
 
     <meta name="author" content="Cristina Metgher">
     
-    <meta name="description" content="Contact information Department of Computational Social Science Krasnow Institute for Advanced Study 379 Research Hall George Mason University &hellip;">
+    <meta name="description" content="Contact information: Department of Computational Social Science Krasnow Institute for Advanced Study 379 Research Hall George Mason University &hellip;">
     
     <meta name="viewport" content="width=device-width">
     
-    <link rel="canonical" href="http://www.metgher.com/contact">
+    <link rel="canonical" href="http://www.metgher.com/cv/index">
     <link href="/favicon.png" rel="icon">
     <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet">
     <link href="//atom.xml" rel="alternate" title="Cristina Metgher" type="application/atom+xml">
@@ -73,7 +73,7 @@
 
 
    </div>
-          <h1 class="title">Contact information</h1>
+          <h2 class="title">Contact information:</h2>
   
           <p>
             Department of Computational Social Science <BR>
