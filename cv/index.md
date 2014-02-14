@@ -3,11 +3,13 @@ CRISTINA METGHER
 
 ----
 
+RESEARCH STATEMENT
+--------------------
+
 >  Research statement: I am a PhD candidate in Computational Social Science\
 >  interested in the social determinants of cancer. My approach is data-driven agent-based computational modeling. 
 Interests: agent based modeling, social network analysis, social epidemiology of cancer.
 
-----
 
 EDUCATION
 --------------------
